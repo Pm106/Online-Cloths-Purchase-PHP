@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "66eecd43e8f260d16b04ea3a"
+  },
+  "username": "roy",
+  "email": "roy123@gmail.com",
+  "mob": "8564567812",
+  "password": "$2y$12$/9VOPTbaIxWpzs4LFp.JrujXP6tua5L7sX1G5/e.Gbn9zVMohPT7i"
+},
+{
+  "_id": {
+    "$oid": "66eef66de8f260d16b04ea40"
+  },
+  "username": "mihir",
+  "email": "mihir@gmail.com",
+  "mob": "6351083404",
+  "password": "$2y$12$zfsFmYW7v2IPwarf35eJKuP1JqBfNLbNh1zdiMBo6TDatJax5htGS"
+},
+{
+  "_id": {
+    "$oid": "66efa11578f61c67390995e5"
+  },
+  "username": "ram",
+  "email": "ram125@gamil.com",
+  "mob": "8974568135",
+  "password": "$2y$12$X/n5DFs4z8jhpFEnN37Zde2C6uABzvuR9oJagkJ7sHytplI7o.bta"
+},
+{
+  "_id": {
+    "$oid": "66f02bc1ad225c5c970af8a5"
+  },
+  "username": "ram",
+  "email": "ram125@gamil.com",
+  "mob": "8974568135",
+  "password": "$2y$12$HCkIdm76gsDlNzW152W0Ke8qjkwwboZd/5aVJ7qj036iDFhe12bra"
+},
+{
+  "_id": {
+    "$oid": "66f1aa62c65dee92d009bc03"
+  },
+  "username": "Raj",
+  "email": "Raj@gamil.com",
+  "mob": "484877845478",
+  "password": "$2y$12$VyoCNKEdUAgSGEe0lIdELuQxFTiyHNvYVDxKaJkF64BM8CmlRnv2G"
+},
+{
+  "_id": {
+    "$oid": "66f2735b70f00b29d003b3f3"
+  },
+  "username": "abc",
+  "email": "abc@gmail.com",
+  "mob": "48588995688",
+  "password": "$2y$12$82gvf1XISAUUfFF7Xa7sp.USS16j6DtaeA9KGVy0KZcKjBYPfgX4y"
+},
+{
+  "_id": {
+    "$oid": "6703e1eeb9de7942f2037dcd"
+  },
+  "username": "xyz",
+  "email": "xyz@gamil.com",
+  "mobile_number": "48588995688",
+  "password": "$2y$10$dZZ61tB5i8.xQI0A2QoVh.N1hvM3VyHHO.6mUSXY7fni5EN913f8."
+}]
